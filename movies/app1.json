@@ -1,7 +1,7 @@
 [
     {
-      "activity_update": true,
-      "is_landscape": true,
+      "activity_update": false,
+      "is_landscape": false,
       "bypass-url": "https://previews.customer.envatousercontent.com/files/402357797/index.html",
       "url-1": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0F6KX7J41",
       "url-2": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0F6KPMZSL",
