@@ -1,8 +1,8 @@
 [
     {
-      "activity_update": false,
+      "activity_update": true,
       "is_landscape": false,
-      "bypass-url": "https://previews.customer.envatousercontent.com/files/266498937/index.html",
+      "bypass-url": "https://previews.customer.envatousercontent.com/files/229602671/index.html",
       "url-1": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FBF3V6P1",
       "url-2": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0FBDRGWHZ"
     }
