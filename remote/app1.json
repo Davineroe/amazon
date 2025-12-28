@@ -5,7 +5,7 @@
       "more_apps": false,
       "activity_start": true,
       "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZOqiAl09q8JxEQYapRpDtyzp_08ksPjxGftVhuEXIeRgbleY_G5LWOJMVouEGQEJmoy9vrVp8gzJeNIKVhko4drfgnAo3TjMFJQcPlzlALxhVpEJdqr5nCROyg3HX2nkgQCjurJ95xVzOB2BeXLSuJub2qPJpZ0_E7L9dFWmI3l20cwkJG3QI6T9UkVss/s1600/512.png",
-      "url": "https://remote-casttv.netlify.app/cast",
+      "url": "https://remote-casttv.netlify.app",
       "activity_update": true,
       "title_update": "Update required",
       "description_update": "Your current version is not supported! The latest update is necessary to run the application on your device.",
